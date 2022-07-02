@@ -1,0 +1,14 @@
+Adventure Game Project Roadmap
+	- Creating a game loop
+	- Display player character
+	- Control Player character
+	- Display background tiles
+	- display objects
+	- Complete the game
+
+	- create monsters
+	- create battle system
+	- create NPCs
+	- create inventory
+	- create events 
+	- complete the game
